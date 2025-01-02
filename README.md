@@ -1,7 +1,7 @@
-**Hi there 👋**
+# Sigar22
+* `Begginer Fullstack Developer`
 
-
-*Tech Stack*
+### Tech Stack
 
 <div>
 <img width=64pxpx src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg">
