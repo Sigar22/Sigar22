@@ -1,5 +1,5 @@
 # Sigar22
-* `Begginer Fullstack Developer`
+* `Backend Developer`
 
 ### Tech Stack
 
